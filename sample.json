@@ -1,0 +1,474 @@
+{
+  "eidrL1": "10.5240/E68B-9FCB-442A-D273-1003-N",
+  "isActive": true,
+  "productId": 12727,
+  "securityLevel": "public",
+  "type": "feature",
+  "updatedAt": "2019-06-27T09:06:52.991Z",
+  "name": "LION KING, THE",
+  "estimatedRuntimeSecs": 5289,
+  "systemRepresentations": {
+    "bolt": {
+      "prettifiedLegalTitle": "Lion King, The (1994)",
+      "title": "The Lion King (1994)"
+    },
+    "radar": {
+      "presentedBy": "WALT DISNEY PICTURES",
+      "groupNumber": "21668",
+      "productClass": "FEATURE",
+      "productId": "12727",
+      "productNumber": "21668",
+      "productSubclass": "ANIMATED",
+      "productTitle": "LION KING, THE"
+    },
+    "sonar": {
+      "countryName": "United States",
+      "productionCompanyName": "Walt Disney Pictures",
+      "productionCompanyOrgId": "10.5237/6163-CF6A",
+      "title": "The Lion King"
+    }
+  },
+  "cast": [
+    {
+      "firstName": "Jonathan",
+      "lastName": "Thomas",
+      "characterName": "Young Simba",
+      "order": 1
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Broderick",
+      "characterName": "Simba",
+      "order": 2
+    },
+    {
+      "firstName": "James",
+      "lastName": "Jones",
+      "characterName": "Mufasa",
+      "order": 3
+    },
+    {
+      "firstName": "Jeremy",
+      "lastName": "Irons",
+      "characterName": "Scar",
+      "order": 4
+    },
+    {
+      "firstName": "Moira",
+      "lastName": "Kelly",
+      "characterName": "Nala",
+      "order": 5
+    },
+    {
+      "firstName": "Niketa",
+      "lastName": "Calame",
+      "characterName": "Young Nala",
+      "order": 6
+    },
+    {
+      "firstName": "Ernie",
+      "lastName": "Sabella",
+      "characterName": "Pumbaa",
+      "order": 7
+    },
+    {
+      "firstName": "Nathan",
+      "lastName": "Lane",
+      "characterName": "Timon",
+      "order": 8
+    },
+    {
+      "firstName": "Robert",
+      "lastName": "Guillaume",
+      "characterName": "Rafiki",
+      "order": 9
+    },
+    {
+      "firstName": "Rowan",
+      "lastName": "Atkinson",
+      "characterName": "Zazu",
+      "order": 10
+    },
+    {
+      "firstName": "Madge",
+      "lastName": "Sinclair",
+      "characterName": "Sarabi",
+      "order": 11
+    },
+    {
+      "firstName": "Whoopi",
+      "lastName": "Goldberg",
+      "characterName": "Shenzi",
+      "order": 12
+    },
+    {
+      "firstName": "Cheech",
+      "lastName": "Marin",
+      "characterName": "Banzai",
+      "order": 13
+    },
+    {
+      "firstName": "Jim",
+      "lastName": "Cummings",
+      "characterName": "Ed",
+      "order": 14
+    },
+    {
+      "firstName": "Zoe",
+      "lastName": "Leader",
+      "characterName": "Sarafina",
+      "order": 15
+    }
+  ],
+  "crew": [
+    {
+      "firstName": "Roger",
+      "lastName": "Allers",
+      "roleName": "Director",
+      "order": 1
+    },
+    {
+      "firstName": "Rob",
+      "lastName": "Minkoff",
+      "roleName": "Director",
+      "order": 2
+    },
+    {
+      "firstName": "Don",
+      "lastName": "Hahn",
+      "roleName": "Productor",
+      "order": 3
+    },
+    {
+      "firstName": "Irene",
+      "lastName": "Mecchi",
+      "roleName": "Screenwriter",
+      "order": 4
+    },
+    {
+      "firstName": "Jonathan",
+      "lastName": "Roberts",
+      "roleName": "Screenwriter",
+      "order": 5
+    },
+    {
+      "firstName": "Linda",
+      "lastName": "Woolverton",
+      "roleName": "Screenwriter",
+      "order": 6
+    },
+    {
+      "firstName": "Hans",
+      "lastName": "Zimmer",
+      "roleName": "Composer",
+      "order": 7
+    }
+  ],
+  "keywords": [
+    "Prince",
+    "king",
+    "stampede",
+    "pride rock",
+    "tree of life",
+    "Africa",
+    "desert",
+    "warthog",
+    "meerkat",
+    "grief",
+    "growing up",
+    "truth",
+    "identity",
+    "hyena",
+    "animal",
+    "tragedy",
+    "monkey",
+    "baboon",
+    "runaway",
+    "epic",
+    "classic",
+    "family",
+    "challenge",
+    "rescue",
+    "rivalry",
+    "friendship",
+    "friends",
+    "trust"
+  ],
+  "ratings": [
+    {
+      "system": "CHVRS",
+      "rating": "G",
+      "ratingReason": []
+    },
+    {
+      "system": "RDCQ",
+      "rating": "G",
+      "ratingReason": []
+    },
+    {
+      "system": "MPAA",
+      "rating": "G",
+      "ratingReason": []
+    }
+  ],
+  "synopsisLong": "Embark on an extraordinary coming-of-age adventure as Simba, a lion cub who cannot wait to be king, searches for his destiny in the great \"Circle of Life.\" You will be thrilled by the breathtaking animation, unforgettable Academy Award winning music (1994: Best Original Score; Best Song, \"Can You Feel The Love Tonight\"), and timeless story.",
+  "synopsisMedium": "Embark on an extraordinary coming-of-age adventure as Simba, a lion cub who cannot wait to be king, searches for his destiny in the great \"Circle of Life.\"",
+  "synopsisShort": "Simba embarks on an adventure to find his place in the Circle of Life.",
+  "alternateNames": {
+    "consumerFacing": [
+      {
+        "name": "Der König der Löwen",
+        "language": "de",
+        "territories": [
+          "*"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "*"
+        ]
+      },
+      {
+        "name": "Le Roi lion",
+        "language": "fr-ca",
+        "territories": [
+          "*"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "*"
+        ]
+      },
+      {
+        "name": "El Rey León",
+        "language": "es-lm",
+        "territories": [
+          "*"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "DISNEYSVOD"
+        ]
+      },
+      {
+        "name": "El Rey León",
+        "language": "es-lm",
+        "territories": [
+          "*"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "*"
+        ]
+      },
+      {
+        "name": "ライオン・キング",
+        "language": "ja",
+        "territories": [
+          "*"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "DISNEYSVOD"
+        ]
+      },
+      {
+        "name": "ライオン・キング",
+        "language": "ja",
+        "territories": [
+          "*"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "*"
+        ]
+      },
+      {
+        "name": "The Lion King",
+        "language": "nl",
+        "territories": [
+          "*"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "*"
+        ]
+      },
+      {
+        "name": "The Lion King: The Walt Disney Signature Collection",
+        "language": "en",
+        "territories": [
+          "CA",
+          "US"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "*"
+        ]
+      },
+      {
+        "name": "The Lion King",
+        "language": "en",
+        "territories": [
+          "*"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "*"
+        ]
+      },
+      {
+        "name": "Le Roi Lion",
+        "language": "fr-fr",
+        "territories": [
+          "*"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "*"
+        ]
+      },
+      {
+        "name": "El Rey León ",
+        "language": "es-es",
+        "territories": [
+          "*"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "*"
+        ]
+      },
+      {
+        "name": "Il re leone",
+        "language": "it",
+        "territories": [
+          "*"
+        ],
+        "media": [
+          "*"
+        ],
+        "clients": [
+          "*"
+        ]
+      }
+    ],
+    "copyright": {
+      "year": "1994"
+    }
+  },
+  "releaseDate": "1994-06-24T00:00:00-07:00",
+  "releases": [
+    {
+      "date": "1994-06-24T00:00:00-07:00"
+    }
+  ],
+  "class": "feature",
+  "creativeFormat": "animated",
+  "disneyPlus": {
+    "isSelected": false
+  },
+  "productionNumber": "0885/2050926(3D VERSION)",
+  "mpmProductIds": [
+    "000000750000031368",
+    "000000750000000580"
+  ],
+  "mpmFamilyIds": [
+    "000000740000000532"
+  ],
+  "versions": [
+    {
+      "id": 39232,
+      "name": "Home Video:RR:en",
+      "eidrL2": "10.5240/1C02-7DF7-CF5F-CFF2-0190-J",
+      "parentEidrL2": null,
+      "isDefault": false,
+      "description": "Walt Disney Signature Collection",
+      "editDetails": "Reissued for other reasons",
+      "editTerritories": [
+        {
+          "name": "Canada",
+          "iso2": "CA",
+          "iso3": "CAN",
+          "isDefault": true
+        },
+        {
+          "name": "United States",
+          "iso2": "US",
+          "iso3": "USA",
+          "isDefault": true
+        }
+      ],
+      "language": "English"
+    },
+    {
+      "id": 86420,
+      "name": "Theatrical:CR:fr-FR",
+      "eidrL2": "10.5240/3CDE-D4AB-1728-5CC5-1D5A-I",
+      "parentEidrL2": "10.5240/973E-93AB-ED7B-A2E6-AEBF-O",
+      "isDefault": false,
+      "description": "French Version",
+      "editDetails": "French Version",
+      "editTerritories": [
+        {
+          "name": "France",
+          "iso2": "FR",
+          "iso3": "FRA",
+          "isDefault": false
+        }
+      ],
+      "language": "French Parisian"
+    },
+    {
+      "id": 86419,
+      "name": "Theatrical:OV:en",
+      "eidrL2": "10.5240/973E-93AB-ED7B-A2E6-AEBF-O",
+      "parentEidrL2": null,
+      "isDefault": true,
+      "description": "Original Version",
+      "editDetails": "Version originally created for distribution.",
+      "editTerritories": [],
+      "language": "English"
+    },
+    {
+      "id": 49364,
+      "name": "Theatrical:OT:nl-NL",
+      "eidrL2": "10.5240/0E26-AF96-8539-71C7-C73C-U",
+      "parentEidrL2": "10.5240/973E-93AB-ED7B-A2E6-AEBF-O",
+      "isDefault": false,
+      "description": "Dutch Version",
+      "editDetails": "Dutch Version",
+      "editTerritories": [
+        {
+          "name": "Netherlands",
+          "iso2": "NL",
+          "iso3": "NLD",
+          "isDefault": false
+        }
+      ],
+      "language": "Dutch"
+    }
+  ],
+  "imageUrl": null
+}
