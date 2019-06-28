@@ -44,7 +44,8 @@ if (content.results && content.results.length) {
   content.results.forEach(result => {
     results.push(_omit(result, omitPaths));
   });
-  console.log(results);
+  fs.writeFileSync("output.json", JSON.stringify(results), "utf8");
 } else {
-  console.log(_omit(content, omitPaths));
+  const json = _omit(content, omitPaths);
+  fs.writeFileSync("output.json", JSON.stringify(json), "utf8");
 }
