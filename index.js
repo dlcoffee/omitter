@@ -27,6 +27,7 @@ try {
 }
 
 const omitPaths = [
+  "_score",
   "systemRepresentations",
   "cast",
   "crew",
@@ -38,4 +39,12 @@ const omitPaths = [
   "imageUrl"
 ];
 
-console.log(_omit(content, omitPaths));
+if (content.results && content.results.length) {
+  const results = [];
+  content.results.forEach(result => {
+    results.push(_omit(result, omitPaths));
+  });
+  console.log(results);
+} else {
+  console.log(_omit(content, omitPaths));
+}

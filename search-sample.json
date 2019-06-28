@@ -1,0 +1,4001 @@
+{
+  "links": {
+    "first": "/api/v2/titles/search?page=1&pageSize=20&q=lion+king",
+    "prev": null,
+    "next": "/api/v2/titles/search?page=2&pageSize=20&q=lion+king",
+    "last": "/api/v2/titles/search?page=57&pageSize=20&q=lion+king"
+  },
+  "paginationInfo": {
+    "total": 1126,
+    "pageSize": 20,
+    "page": 1,
+    "from": 1,
+    "to": 20,
+    "lastPage": 57
+  },
+  "results": [
+    {
+      "_score": 15.287247,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 135733,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T08:58:40.156Z",
+      "name": "LION KING",
+      "seasonName": "DJ TALES (SHORTS) (YR 1 2012/13 EPS 1-19)",
+      "seriesName": "DJ TALES (SHORTS) (OVERALL SERIES)",
+      "episodeNumber": "17",
+      "seasonNumber": "1",
+      "fNumber": "F017",
+      "foreignEpisodeNumber": "F017",
+      "seFormat": "s01e0017",
+      "estimatedRuntimeSecs": 180,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": null,
+            "name": "DJ TALES (SHORTS) (OVERALL SERIES)",
+            "productId": 133020,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": null,
+            "name": "DJ TALES (SHORTS) (YR 1 2012/13 EPS 1-19)",
+            "productId": 133021,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Lion King",
+          "title": "Lion King"
+        },
+        "radar": {
+          "groupNumber": "52549",
+          "productClass": "SERIES",
+          "productId": "135733",
+          "productNumber": "52550",
+          "productSubclass": "LIVE ACTION",
+          "productTitle": "DJ TALES (SHORTS) (YR 1 2012/13 EPS 1-19)"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": []
+      },
+      "releaseDate": "2013-04-09T00:00:00-07:00",
+      "releases": [
+        {
+          "date": "2013-04-09T00:00:00-07:00"
+        }
+      ],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "live_action",
+      "seasonBroadcastYear": "2012/13",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "017",
+      "imageUrl": null
+    },
+    {
+      "_score": 13.801012,
+      "eidrL1": "10.5240/E68B-9FCB-442A-D273-1003-N",
+      "isActive": true,
+      "productId": 12727,
+      "securityLevel": "public",
+      "type": "feature",
+      "updatedAt": "2019-06-27T09:06:52.991Z",
+      "name": "LION KING, THE",
+      "estimatedRuntimeSecs": 5289,
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Lion King, The (1994)",
+          "title": "The Lion King (1994)"
+        },
+        "radar": {
+          "groupNumber": "21668",
+          "productClass": "FEATURE",
+          "productId": "12727",
+          "productNumber": "21668",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING, THE"
+        },
+        "sonar": {
+          "title": "The Lion King"
+        }
+      },
+      "cast": [
+        {
+          "firstName": "Jonathan",
+          "lastName": "Thomas",
+          "characterName": "Young Simba",
+          "order": 1
+        },
+        {
+          "firstName": "Matthew",
+          "lastName": "Broderick",
+          "characterName": "Simba",
+          "order": 2
+        },
+        {
+          "firstName": "James",
+          "lastName": "Jones",
+          "characterName": "Mufasa",
+          "order": 3
+        },
+        {
+          "firstName": "Jeremy",
+          "lastName": "Irons",
+          "characterName": "Scar",
+          "order": 4
+        },
+        {
+          "firstName": "Moira",
+          "lastName": "Kelly",
+          "characterName": "Nala",
+          "order": 5
+        },
+        {
+          "firstName": "Niketa",
+          "lastName": "Calame",
+          "characterName": "Young Nala",
+          "order": 6
+        },
+        {
+          "firstName": "Ernie",
+          "lastName": "Sabella",
+          "characterName": "Pumbaa",
+          "order": 7
+        },
+        {
+          "firstName": "Nathan",
+          "lastName": "Lane",
+          "characterName": "Timon",
+          "order": 8
+        },
+        {
+          "firstName": "Robert",
+          "lastName": "Guillaume",
+          "characterName": "Rafiki",
+          "order": 9
+        },
+        {
+          "firstName": "Rowan",
+          "lastName": "Atkinson",
+          "characterName": "Zazu",
+          "order": 10
+        },
+        {
+          "firstName": "Madge",
+          "lastName": "Sinclair",
+          "characterName": "Sarabi",
+          "order": 11
+        },
+        {
+          "firstName": "Whoopi",
+          "lastName": "Goldberg",
+          "characterName": "Shenzi",
+          "order": 12
+        },
+        {
+          "firstName": "Cheech",
+          "lastName": "Marin",
+          "characterName": "Banzai",
+          "order": 13
+        },
+        {
+          "firstName": "Jim",
+          "lastName": "Cummings",
+          "characterName": "Ed",
+          "order": 14
+        },
+        {
+          "firstName": "Zoe",
+          "lastName": "Leader",
+          "characterName": "Sarafina",
+          "order": 15
+        }
+      ],
+      "crew": [
+        {
+          "firstName": "Roger",
+          "lastName": "Allers",
+          "roleName": "Director",
+          "order": 1
+        },
+        {
+          "firstName": "Rob",
+          "lastName": "Minkoff",
+          "roleName": "Director",
+          "order": 2
+        },
+        {
+          "firstName": "Don",
+          "lastName": "Hahn",
+          "roleName": "Productor",
+          "order": 3
+        },
+        {
+          "firstName": "Irene",
+          "lastName": "Mecchi",
+          "roleName": "Screenwriter",
+          "order": 4
+        },
+        {
+          "firstName": "Jonathan",
+          "lastName": "Roberts",
+          "roleName": "Screenwriter",
+          "order": 5
+        },
+        {
+          "firstName": "Linda",
+          "lastName": "Woolverton",
+          "roleName": "Screenwriter",
+          "order": 6
+        },
+        {
+          "firstName": "Hans",
+          "lastName": "Zimmer",
+          "roleName": "Composer",
+          "order": 7
+        }
+      ],
+      "keywords": [
+        "Prince",
+        "king",
+        "stampede",
+        "pride rock",
+        "tree of life",
+        "Africa",
+        "desert",
+        "warthog",
+        "meerkat",
+        "grief",
+        "growing up",
+        "truth",
+        "identity",
+        "hyena",
+        "animal",
+        "tragedy",
+        "monkey",
+        "baboon",
+        "runaway",
+        "epic",
+        "classic",
+        "family",
+        "challenge",
+        "rescue",
+        "rivalry",
+        "friendship",
+        "friends",
+        "trust"
+      ],
+      "ratings": [
+        {
+          "system": "CHVRS",
+          "rating": "G",
+          "ratingReason": []
+        },
+        {
+          "system": "RDCQ",
+          "rating": "G",
+          "ratingReason": []
+        },
+        {
+          "system": "MPAA",
+          "rating": "G",
+          "ratingReason": []
+        }
+      ],
+      "synopsisLong": "Embark on an extraordinary coming-of-age adventure as Simba, a lion cub who cannot wait to be king, searches for his destiny in the great \"Circle of Life.\" You will be thrilled by the breathtaking animation, unforgettable Academy Award winning music (1994: Best Original Score; Best Song, \"Can You Feel The Love Tonight\"), and timeless story.",
+      "synopsisMedium": "Embark on an extraordinary coming-of-age adventure as Simba, a lion cub who cannot wait to be king, searches for his destiny in the great \"Circle of Life.\"",
+      "synopsisShort": "Simba embarks on an adventure to find his place in the Circle of Life.",
+      "alternateNames": {
+        "consumerFacing": [
+          {
+            "name": "Der König der Löwen",
+            "language": "de",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Le Roi lion",
+            "language": "fr-ca",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "El Rey León",
+            "language": "es-lm",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "DISNEYSVOD"
+            ]
+          },
+          {
+            "name": "El Rey León",
+            "language": "es-lm",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "ライオン・キング",
+            "language": "ja",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "DISNEYSVOD"
+            ]
+          },
+          {
+            "name": "ライオン・キング",
+            "language": "ja",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "The Lion King",
+            "language": "nl",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "The Lion King: The Walt Disney Signature Collection",
+            "language": "en",
+            "territories": [
+              "CA",
+              "US"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "The Lion King",
+            "language": "en",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Le Roi Lion",
+            "language": "fr-fr",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "El Rey León ",
+            "language": "es-es",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Il re leone",
+            "language": "it",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          }
+        ],
+        "copyright": {
+          "year": "1994"
+        }
+      },
+      "releaseDate": "1994-06-24T00:00:00-07:00",
+      "releases": [
+        {
+          "date": "1994-06-24T00:00:00-07:00"
+        }
+      ],
+      "class": "feature",
+      "creativeFormat": "animated",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "0885/2050926(3D VERSION)",
+      "mpmProductIds": [
+        "000000750000031368",
+        "000000750000000580"
+      ],
+      "mpmFamilyIds": [
+        "000000740000000532"
+      ],
+      "versions": [
+        {
+          "id": 39232,
+          "name": "Home Video:RR:en",
+          "eidrL2": "10.5240/1C02-7DF7-CF5F-CFF2-0190-J",
+          "parentEidrL2": null,
+          "isDefault": false,
+          "description": "Walt Disney Signature Collection",
+          "editDetails": "Reissued for other reasons",
+          "editTerritories": [
+            {
+              "name": "Canada",
+              "iso2": "CA",
+              "iso3": "CAN",
+              "isDefault": true
+            },
+            {
+              "name": "United States",
+              "iso2": "US",
+              "iso3": "USA",
+              "isDefault": true
+            }
+          ],
+          "language": "English"
+        },
+        {
+          "id": 86420,
+          "name": "Theatrical:CR:fr-FR",
+          "eidrL2": "10.5240/3CDE-D4AB-1728-5CC5-1D5A-I",
+          "parentEidrL2": "10.5240/973E-93AB-ED7B-A2E6-AEBF-O",
+          "isDefault": false,
+          "description": "French Version",
+          "editDetails": "French Version",
+          "editTerritories": [
+            {
+              "name": "France",
+              "iso2": "FR",
+              "iso3": "FRA",
+              "isDefault": false
+            }
+          ],
+          "language": "French Parisian"
+        },
+        {
+          "id": 86419,
+          "name": "Theatrical:OV:en",
+          "eidrL2": "10.5240/973E-93AB-ED7B-A2E6-AEBF-O",
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": "Original Version",
+          "editDetails": "Version originally created for distribution.",
+          "editTerritories": [],
+          "language": "English"
+        },
+        {
+          "id": 49364,
+          "name": "Theatrical:OT:nl-NL",
+          "eidrL2": "10.5240/0E26-AF96-8539-71C7-C73C-U",
+          "parentEidrL2": "10.5240/973E-93AB-ED7B-A2E6-AEBF-O",
+          "isDefault": false,
+          "description": "Dutch Version",
+          "editDetails": "Dutch Version",
+          "editTerritories": [
+            {
+              "name": "Netherlands",
+              "iso2": "NL",
+              "iso3": "NLD",
+              "isDefault": false
+            }
+          ],
+          "language": "Dutch"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 11.794369,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 96741,
+      "securityLevel": "public",
+      "type": "feature",
+      "updatedAt": "2019-06-27T06:39:05.441Z",
+      "name": "LION KING TRILOGY, THE",
+      "estimatedRuntimeSecs": 10435,
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Lion King Trilogy, The",
+          "title": "The Lion King Trilogy"
+        },
+        "radar": {
+          "groupNumber": "26322",
+          "productClass": "HOME VIDEO",
+          "productId": "96741",
+          "productNumber": "26322",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING TRILOGY, THE"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": []
+      },
+      "releaseDate": "2004-12-07T00:00:00-08:00",
+      "releases": [
+        {
+          "date": "2004-12-07T00:00:00-08:00"
+        }
+      ],
+      "creativeFormat": "animated",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "mpmProductIds": [
+        "000000750000012403"
+      ],
+      "mpmFamilyIds": [
+        "000000740000009965"
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 11.10253,
+      "eidrL1": "10.5240/6563-E172-E2C1-26DE-1B8C-3",
+      "isActive": true,
+      "productId": 43128,
+      "securityLevel": "public",
+      "type": "feature",
+      "updatedAt": "2019-06-27T08:54:08.713Z",
+      "name": "LION KING 1 1/2, THE (2004)",
+      "estimatedRuntimeSecs": 4560,
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Lion King 1 1/2, The (2004)",
+          "title": "The Lion King 1 1/2"
+        },
+        "radar": {
+          "groupNumber": "26034",
+          "productClass": "HOME VIDEO",
+          "productId": "43128",
+          "productNumber": "26034",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING 1 1/2, THE (2004)"
+        },
+        "sonar": {
+          "title": "The Lion King 1 1/2"
+        }
+      },
+      "cast": [
+        {
+          "firstName": "Nathan",
+          "lastName": "Lane",
+          "characterName": "Timon",
+          "order": 1
+        },
+        {
+          "firstName": "Ernie",
+          "lastName": "Sabella",
+          "characterName": "Pumbaa",
+          "order": 2
+        },
+        {
+          "firstName": "Julie",
+          "lastName": "Kavner",
+          "characterName": "Mom",
+          "order": 3
+        },
+        {
+          "firstName": "Jerry",
+          "lastName": "Stiller",
+          "characterName": "Uncle Max",
+          "order": 4
+        },
+        {
+          "firstName": "Matthew",
+          "lastName": "Broderick",
+          "characterName": "Simba",
+          "order": 5
+        },
+        {
+          "firstName": "Robert",
+          "lastName": "Guillaume",
+          "characterName": "Rafiki",
+          "order": 6
+        },
+        {
+          "firstName": "Moira",
+          "lastName": "Kelly",
+          "characterName": "Nala",
+          "order": 7
+        },
+        {
+          "firstName": "Whoopi",
+          "lastName": "Goldberg",
+          "characterName": "Shenzi",
+          "order": 8
+        },
+        {
+          "firstName": "Cheech",
+          "lastName": "Marin",
+          "characterName": "Banzai",
+          "order": 9
+        },
+        {
+          "firstName": "Jim",
+          "lastName": "Cummings",
+          "characterName": "Ed",
+          "order": 10
+        },
+        {
+          "firstName": "Edward",
+          "lastName": "Hibbert",
+          "characterName": "Zasu",
+          "order": 11
+        },
+        {
+          "firstName": "Jason",
+          "lastName": "Rudofsky",
+          "characterName": "Flinchy",
+          "order": 12
+        },
+        {
+          "firstName": "Matt",
+          "lastName": "Weinberg",
+          "characterName": "Young Simba",
+          "order": 13
+        }
+      ],
+      "crew": [
+        {
+          "firstName": "Bradley",
+          "lastName": "Raymond",
+          "roleName": "Director",
+          "order": 1
+        },
+        {
+          "firstName": "George",
+          "lastName": "Mendoza",
+          "roleName": "Productor",
+          "order": 2
+        },
+        {
+          "firstName": "Tom",
+          "lastName": "Rogers",
+          "roleName": "Screenwriter",
+          "order": 3
+        },
+        {
+          "firstName": "Don",
+          "lastName": "Harper",
+          "roleName": "Composer",
+          "order": 4
+        }
+      ],
+      "keywords": [
+        "The Lion King",
+        "Walt Disney Pictures",
+        "Nathan Lane",
+        "Ernie Sabella",
+        "Julie Kavner",
+        "Bradley Raymond"
+      ],
+      "ratings": [
+        {
+          "system": "CHVRS",
+          "rating": "G",
+          "ratingReason": []
+        },
+        {
+          "system": "RDCQ",
+          "rating": "G",
+          "ratingReason": []
+        },
+        {
+          "system": "MPAA",
+          "rating": "G",
+          "ratingReason": []
+        }
+      ],
+      "synopsisLong": "In this comedy-adventure, Timon and Pumbaa reveal where they came from, where they met and how they helped Simba save the Serengeti. Their story includes glimpses into some big events from The Lion King that look a little different from Timon and Pumbaa's perspective - such as when King Mufasa introduced baby Simba to the animal kingdom. Let's just say there was something behind that dramatic moment when all the animals bowed to their new ruler! Nathan Lane, Matthew Broderick, Ernie Sabella and the original voice cast return for this hysterical musical tale - and meet colorful new characters like Timon's Ma (Julie Kavner) and Uncle Max (Jerry Stiller)! With all your favorite characters, the music you love and more, get ready for some king-sized fun with Timon and Pumbaa!",
+      "synopsisMedium": "Timon and Pumbaa reveal where they came from, where they meet and how they helped Simba save the Serengeti.",
+      "synopsisShort": "Timon and Pumbaa's story when Simba was introduced to the Kingdom.",
+      "alternateNames": {
+        "consumerFacing": [
+          {
+            "name": "Der Konig der Lowen 3 - Hakuna Matata",
+            "language": "de",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "The Lion King 3 – Hakuna Matata",
+            "language": "nl",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "El Rey León III",
+            "language": "es-lm",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "El Rey León III",
+            "language": "es-lm",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "DISNEYSVOD"
+            ]
+          },
+          {
+            "name": "ライオン・キング３　ハクナ・マタタ",
+            "language": "ja",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "ライオン・キング3  ハクナ・マタタ",
+            "language": "ja",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "DISNEYSVOD"
+            ]
+          },
+          {
+            "name": "Король Лев 3: Акуна Матата",
+            "language": "ru",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "El Rey León 3: Hakuna Matata",
+            "language": "es-es",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Le Roi lion 1 1/2 (The Lion King 1 1/2)",
+            "language": "fr-ca",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Le Roi Lion 3 : Hakuna Matata",
+            "language": "fr-fr",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Il re leone 3 - Hakuna Matata",
+            "language": "it",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "The Lion King 1 1/2",
+            "language": "en",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          }
+        ]
+      },
+      "releaseDate": "2004-02-10T00:00:00-08:00",
+      "releases": [
+        {
+          "date": "2004-02-10T00:00:00-08:00"
+        }
+      ],
+      "creativeFormat": "animated",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "mpmProductIds": [
+        "000000750000012346"
+      ],
+      "mpmFamilyIds": [
+        "000000740000009902"
+      ],
+      "versions": [
+        {
+          "id": 62352,
+          "name": "Home Video:OT:es-ES",
+          "eidrL2": "10.5240/726F-25D2-EC71-212B-376E-F",
+          "parentEidrL2": "10.5240/5FF1-0785-9CB2-8EC7-7053-N",
+          "isDefault": false,
+          "description": "Version with the localized picture inserts in Spanish Castilian",
+          "editDetails": ". Localizedin Spanish Castilian",
+          "editTerritories": [
+            {
+              "name": "Spain",
+              "iso2": "ES",
+              "iso3": "ESP",
+              "isDefault": true
+            }
+          ],
+          "language": "Spanish Castilian"
+        },
+        {
+          "id": 62349,
+          "name": "Home Video:OT:de",
+          "eidrL2": "10.5240/C9BA-71EA-F5A6-3013-E562-0",
+          "parentEidrL2": "10.5240/5FF1-0785-9CB2-8EC7-7053-N",
+          "isDefault": false,
+          "description": "Version with the localized picture inserts in German",
+          "editDetails": ". Localizedin German",
+          "editTerritories": [
+            {
+              "name": "Germany",
+              "iso2": "DE",
+              "iso3": "DEU",
+              "isDefault": true
+            },
+            {
+              "name": "Switzerland",
+              "iso2": "CH",
+              "iso3": "CHE",
+              "isDefault": true
+            },
+            {
+              "name": "Liechtenstein",
+              "iso2": "LI",
+              "iso3": "LIE",
+              "isDefault": true
+            },
+            {
+              "name": "Austria",
+              "iso2": "AT",
+              "iso3": "AUT",
+              "isDefault": true
+            }
+          ],
+          "language": "German"
+        },
+        {
+          "id": 62229,
+          "name": "Home Video:OT:ru",
+          "eidrL2": "10.5240/28D8-9985-E314-AF18-356C-Q",
+          "parentEidrL2": "10.5240/5FF1-0785-9CB2-8EC7-7053-N",
+          "isDefault": false,
+          "description": "Version with the localized picture inserts in Russian",
+          "editDetails": ". Localizedin Russian",
+          "editTerritories": [
+            {
+              "name": "Russia",
+              "iso2": "RU",
+              "iso3": "RUS",
+              "isDefault": true
+            },
+            {
+              "name": "Kyrgyzstan",
+              "iso2": "KG",
+              "iso3": "KGZ",
+              "isDefault": true
+            },
+            {
+              "name": "Tajikistan",
+              "iso2": "TJ",
+              "iso3": "TJK",
+              "isDefault": true
+            }
+          ],
+          "language": "Russian"
+        },
+        {
+          "id": 62181,
+          "name": "Home Video:OT:hr-HR",
+          "eidrL2": "10.5240/FF4A-EF0C-C5E7-7EDB-0EA4-Y",
+          "parentEidrL2": "10.5240/5FF1-0785-9CB2-8EC7-7053-N",
+          "isDefault": false,
+          "description": "Version with the localized picture inserts in Croatian",
+          "editDetails": ". Localizedin Croatian",
+          "editTerritories": [
+            {
+              "name": "Croatia",
+              "iso2": "HR",
+              "iso3": "HRV",
+              "isDefault": true
+            }
+          ],
+          "language": "Croatian"
+        },
+        {
+          "id": 62178,
+          "name": "Home Video:OT:fr-FR",
+          "eidrL2": "10.5240/FD2B-943F-7DFE-A28E-9F94-2",
+          "parentEidrL2": "10.5240/5FF1-0785-9CB2-8EC7-7053-N",
+          "isDefault": false,
+          "description": "Version with the localized picture inserts in French Parisian",
+          "editDetails": ". Localizedin French Parisian",
+          "editTerritories": [
+            {
+              "name": "France",
+              "iso2": "FR",
+              "iso3": "FRA",
+              "isDefault": true
+            }
+          ],
+          "language": "French Parisian"
+        },
+        {
+          "id": 4145,
+          "name": "Home Video:OV:en",
+          "eidrL2": "10.5240/5FF1-0785-9CB2-8EC7-7053-N",
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": "Original Version",
+          "editDetails": "Version originally created for distribution.",
+          "editTerritories": [
+            {
+              "name": "Denmark",
+              "iso2": "DK",
+              "iso3": "DNK",
+              "isDefault": true
+            },
+            {
+              "name": "Finland",
+              "iso2": "FI",
+              "iso3": "FIN",
+              "isDefault": true
+            },
+            {
+              "name": "France",
+              "iso2": "FR",
+              "iso3": "FRA",
+              "isDefault": false
+            },
+            {
+              "name": "Germany",
+              "iso2": "DE",
+              "iso3": "DEU",
+              "isDefault": false
+            },
+            {
+              "name": "Italy",
+              "iso2": "IT",
+              "iso3": "ITA",
+              "isDefault": true
+            },
+            {
+              "name": "Japan",
+              "iso2": "JP",
+              "iso3": "JPN",
+              "isDefault": true
+            },
+            {
+              "name": "Mexico",
+              "iso2": "MX",
+              "iso3": "MEX",
+              "isDefault": true
+            },
+            {
+              "name": "Norway",
+              "iso2": "NO",
+              "iso3": "NOR",
+              "isDefault": true
+            },
+            {
+              "name": "Russia",
+              "iso2": "RU",
+              "iso3": "RUS",
+              "isDefault": false
+            },
+            {
+              "name": "South Korea",
+              "iso2": "KR",
+              "iso3": "KOR",
+              "isDefault": true
+            },
+            {
+              "name": "Spain",
+              "iso2": "ES",
+              "iso3": "ESP",
+              "isDefault": false
+            },
+            {
+              "name": "Sweden",
+              "iso2": "SE",
+              "iso3": "SWE",
+              "isDefault": true
+            },
+            {
+              "name": "Switzerland",
+              "iso2": "CH",
+              "iso3": "CHE",
+              "isDefault": false
+            },
+            {
+              "name": "United States",
+              "iso2": "US",
+              "iso3": "USA",
+              "isDefault": true
+            },
+            {
+              "name": "Portugal",
+              "iso2": "PT",
+              "iso3": "PRT",
+              "isDefault": true
+            },
+            {
+              "name": "Bulgaria",
+              "iso2": "BG",
+              "iso3": "BGR",
+              "isDefault": true
+            },
+            {
+              "name": "Czech Republic",
+              "iso2": "CZ",
+              "iso3": "CZE",
+              "isDefault": true
+            },
+            {
+              "name": "Slovakia",
+              "iso2": "SK",
+              "iso3": "SVK",
+              "isDefault": true
+            },
+            {
+              "name": "Greece",
+              "iso2": "GR",
+              "iso3": "GRC",
+              "isDefault": true
+            },
+            {
+              "name": "Hungary",
+              "iso2": "HU",
+              "iso3": "HUN",
+              "isDefault": true
+            },
+            {
+              "name": "Israel",
+              "iso2": "IL",
+              "iso3": "ISR",
+              "isDefault": true
+            },
+            {
+              "name": "Poland",
+              "iso2": "PL",
+              "iso3": "POL",
+              "isDefault": true
+            },
+            {
+              "name": "Romania",
+              "iso2": "RO",
+              "iso3": "ROU",
+              "isDefault": true
+            },
+            {
+              "name": "Turkey",
+              "iso2": "TR",
+              "iso3": "TUR",
+              "isDefault": true
+            },
+            {
+              "name": "United Arab Emirates",
+              "iso2": "AE",
+              "iso3": "ARE",
+              "isDefault": true
+            },
+            {
+              "name": "Ukraine",
+              "iso2": "UA",
+              "iso3": "UKR",
+              "isDefault": true
+            },
+            {
+              "name": "Serbia",
+              "iso2": "RS",
+              "iso3": "SRB",
+              "isDefault": true
+            },
+            {
+              "name": "Slovenia",
+              "iso2": "SI",
+              "iso3": "SVN",
+              "isDefault": true
+            },
+            {
+              "name": "Croatia",
+              "iso2": "HR",
+              "iso3": "HRV",
+              "isDefault": false
+            },
+            {
+              "name": "Hong Kong",
+              "iso2": "HK",
+              "iso3": "HKG",
+              "isDefault": true
+            },
+            {
+              "name": "Malaysia",
+              "iso2": "MY",
+              "iso3": "MYS",
+              "isDefault": true
+            },
+            {
+              "name": "Thailand",
+              "iso2": "TH",
+              "iso3": "THA",
+              "isDefault": true
+            },
+            {
+              "name": "Belgium",
+              "iso2": "BE",
+              "iso3": "BEL",
+              "isDefault": true
+            },
+            {
+              "name": "Brazil",
+              "iso2": "BR",
+              "iso3": "BRA",
+              "isDefault": true
+            },
+            {
+              "name": "China",
+              "iso2": "CN",
+              "iso3": "CHN",
+              "isDefault": true
+            },
+            {
+              "name": "Iceland",
+              "iso2": "IS",
+              "iso3": "ISL",
+              "isDefault": true
+            },
+            {
+              "name": "India",
+              "iso2": "IN",
+              "iso3": "IND",
+              "isDefault": true
+            },
+            {
+              "name": "Indonesia",
+              "iso2": "ID",
+              "iso3": "IDN",
+              "isDefault": true
+            },
+            {
+              "name": "Lithuania",
+              "iso2": "LT",
+              "iso3": "LTU",
+              "isDefault": true
+            },
+            {
+              "name": "Latvia",
+              "iso2": "LV",
+              "iso3": "LVA",
+              "isDefault": true
+            },
+            {
+              "name": "Estonia",
+              "iso2": "EE",
+              "iso3": "EST",
+              "isDefault": true
+            },
+            {
+              "name": "Vietnam",
+              "iso2": "VN",
+              "iso3": "VNM",
+              "isDefault": true
+            },
+            {
+              "name": "Taiwan",
+              "iso2": "TW",
+              "iso3": "TWN",
+              "isDefault": true
+            },
+            {
+              "name": "Albania",
+              "iso2": "AL",
+              "iso3": "ALB",
+              "isDefault": true
+            },
+            {
+              "name": "Bhutan",
+              "iso2": "BT",
+              "iso3": "BTN",
+              "isDefault": true
+            },
+            {
+              "name": "Bosnia & Herzegovinia",
+              "iso2": "BA",
+              "iso3": "BIH",
+              "isDefault": true
+            },
+            {
+              "name": "Macedonia",
+              "iso2": "MK",
+              "iso3": "MKD",
+              "isDefault": true
+            },
+            {
+              "name": "Montenegro",
+              "iso2": "ME",
+              "iso3": "MNE",
+              "isDefault": true
+            },
+            {
+              "name": "Myanmar (Burma)",
+              "iso2": "MM",
+              "iso3": "MMR",
+              "isDefault": true
+            },
+            {
+              "name": "Austria",
+              "iso2": "AT",
+              "iso3": "AUT",
+              "isDefault": false
+            },
+            {
+              "name": "Liechtenstein",
+              "iso2": "LI",
+              "iso3": "LIE",
+              "isDefault": false
+            },
+            {
+              "name": "Tajikistan",
+              "iso2": "TJ",
+              "iso3": "TJK",
+              "isDefault": false
+            },
+            {
+              "name": "Kyrgyzstan",
+              "iso2": "KG",
+              "iso3": "KGZ",
+              "isDefault": false
+            }
+          ],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 10.889608,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 18291,
+      "securityLevel": "public",
+      "type": "feature",
+      "updatedAt": "2019-06-27T04:39:48.995Z",
+      "name": "MAKING OF THE LION KING, THE",
+      "estimatedRuntimeSecs": 1638,
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Making Of The Lion King, The",
+          "title": "Making Of The Lion King, The"
+        },
+        "radar": {
+          "groupNumber": "51059",
+          "productClass": "SPECIAL",
+          "productId": "18291",
+          "productNumber": "51059",
+          "productSubclass": "ANIMATED",
+          "productTitle": "MAKING OF THE LION KING, THE"
+        },
+        "sonar": {
+          "title": "The Making of The Lion King"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": [],
+        "copyright": {
+          "year": "1994"
+        }
+      },
+      "releaseDate": "1994-06-12T00:00:00-07:00",
+      "releases": [
+        {
+          "date": "1994-06-12T00:00:00-07:00"
+        }
+      ],
+      "class": "special",
+      "creativeFormat": "animated",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "UNKNOWN",
+      "mpmProductIds": [
+        "000000750000008071"
+      ],
+      "mpmFamilyIds": [
+        "000000740000008263"
+      ],
+      "versions": [
+        {
+          "id": 66543,
+          "name": "Broadcast:OV:en",
+          "eidrL2": null,
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": "Original Version",
+          "editDetails": "Version originally created for distribution.",
+          "editTerritories": [
+            {
+              "name": "Denmark",
+              "iso2": "DK",
+              "iso3": "DNK",
+              "isDefault": true
+            },
+            {
+              "name": "Finland",
+              "iso2": "FI",
+              "iso3": "FIN",
+              "isDefault": true
+            },
+            {
+              "name": "France",
+              "iso2": "FR",
+              "iso3": "FRA",
+              "isDefault": true
+            },
+            {
+              "name": "Germany",
+              "iso2": "DE",
+              "iso3": "DEU",
+              "isDefault": true
+            },
+            {
+              "name": "Italy",
+              "iso2": "IT",
+              "iso3": "ITA",
+              "isDefault": true
+            },
+            {
+              "name": "Japan",
+              "iso2": "JP",
+              "iso3": "JPN",
+              "isDefault": true
+            },
+            {
+              "name": "Mexico",
+              "iso2": "MX",
+              "iso3": "MEX",
+              "isDefault": true
+            },
+            {
+              "name": "Norway",
+              "iso2": "NO",
+              "iso3": "NOR",
+              "isDefault": true
+            },
+            {
+              "name": "Russia",
+              "iso2": "RU",
+              "iso3": "RUS",
+              "isDefault": true
+            },
+            {
+              "name": "South Korea",
+              "iso2": "KR",
+              "iso3": "KOR",
+              "isDefault": true
+            },
+            {
+              "name": "Spain",
+              "iso2": "ES",
+              "iso3": "ESP",
+              "isDefault": true
+            },
+            {
+              "name": "Sweden",
+              "iso2": "SE",
+              "iso3": "SWE",
+              "isDefault": true
+            },
+            {
+              "name": "Switzerland",
+              "iso2": "CH",
+              "iso3": "CHE",
+              "isDefault": true
+            },
+            {
+              "name": "United States",
+              "iso2": "US",
+              "iso3": "USA",
+              "isDefault": true
+            },
+            {
+              "name": "Portugal",
+              "iso2": "PT",
+              "iso3": "PRT",
+              "isDefault": true
+            },
+            {
+              "name": "Bulgaria",
+              "iso2": "BG",
+              "iso3": "BGR",
+              "isDefault": true
+            },
+            {
+              "name": "Czech Republic",
+              "iso2": "CZ",
+              "iso3": "CZE",
+              "isDefault": true
+            },
+            {
+              "name": "Slovakia",
+              "iso2": "SK",
+              "iso3": "SVK",
+              "isDefault": true
+            },
+            {
+              "name": "Greece",
+              "iso2": "GR",
+              "iso3": "GRC",
+              "isDefault": true
+            },
+            {
+              "name": "Hungary",
+              "iso2": "HU",
+              "iso3": "HUN",
+              "isDefault": true
+            },
+            {
+              "name": "Israel",
+              "iso2": "IL",
+              "iso3": "ISR",
+              "isDefault": true
+            },
+            {
+              "name": "Poland",
+              "iso2": "PL",
+              "iso3": "POL",
+              "isDefault": true
+            },
+            {
+              "name": "Romania",
+              "iso2": "RO",
+              "iso3": "ROU",
+              "isDefault": true
+            },
+            {
+              "name": "Turkey",
+              "iso2": "TR",
+              "iso3": "TUR",
+              "isDefault": true
+            },
+            {
+              "name": "United Arab Emirates",
+              "iso2": "AE",
+              "iso3": "ARE",
+              "isDefault": true
+            },
+            {
+              "name": "Ukraine",
+              "iso2": "UA",
+              "iso3": "UKR",
+              "isDefault": true
+            },
+            {
+              "name": "Serbia",
+              "iso2": "RS",
+              "iso3": "SRB",
+              "isDefault": true
+            },
+            {
+              "name": "Slovenia",
+              "iso2": "SI",
+              "iso3": "SVN",
+              "isDefault": true
+            },
+            {
+              "name": "Croatia",
+              "iso2": "HR",
+              "iso3": "HRV",
+              "isDefault": true
+            },
+            {
+              "name": "Hong Kong",
+              "iso2": "HK",
+              "iso3": "HKG",
+              "isDefault": true
+            },
+            {
+              "name": "Malaysia",
+              "iso2": "MY",
+              "iso3": "MYS",
+              "isDefault": true
+            },
+            {
+              "name": "Thailand",
+              "iso2": "TH",
+              "iso3": "THA",
+              "isDefault": true
+            },
+            {
+              "name": "Belgium",
+              "iso2": "BE",
+              "iso3": "BEL",
+              "isDefault": true
+            },
+            {
+              "name": "Brazil",
+              "iso2": "BR",
+              "iso3": "BRA",
+              "isDefault": true
+            },
+            {
+              "name": "China",
+              "iso2": "CN",
+              "iso3": "CHN",
+              "isDefault": true
+            },
+            {
+              "name": "Iceland",
+              "iso2": "IS",
+              "iso3": "ISL",
+              "isDefault": true
+            },
+            {
+              "name": "India",
+              "iso2": "IN",
+              "iso3": "IND",
+              "isDefault": true
+            },
+            {
+              "name": "Indonesia",
+              "iso2": "ID",
+              "iso3": "IDN",
+              "isDefault": true
+            },
+            {
+              "name": "Lithuania",
+              "iso2": "LT",
+              "iso3": "LTU",
+              "isDefault": true
+            },
+            {
+              "name": "Latvia",
+              "iso2": "LV",
+              "iso3": "LVA",
+              "isDefault": true
+            },
+            {
+              "name": "Estonia",
+              "iso2": "EE",
+              "iso3": "EST",
+              "isDefault": true
+            },
+            {
+              "name": "Vietnam",
+              "iso2": "VN",
+              "iso3": "VNM",
+              "isDefault": true
+            },
+            {
+              "name": "Taiwan",
+              "iso2": "TW",
+              "iso3": "TWN",
+              "isDefault": true
+            },
+            {
+              "name": "Albania",
+              "iso2": "AL",
+              "iso3": "ALB",
+              "isDefault": true
+            },
+            {
+              "name": "Bhutan",
+              "iso2": "BT",
+              "iso3": "BTN",
+              "isDefault": true
+            },
+            {
+              "name": "Bosnia & Herzegovinia",
+              "iso2": "BA",
+              "iso3": "BIH",
+              "isDefault": true
+            },
+            {
+              "name": "Macedonia",
+              "iso2": "MK",
+              "iso3": "MKD",
+              "isDefault": true
+            },
+            {
+              "name": "Montenegro",
+              "iso2": "ME",
+              "iso3": "MNE",
+              "isDefault": true
+            },
+            {
+              "name": "Myanmar (Burma)",
+              "iso2": "MM",
+              "iso3": "MMR",
+              "isDefault": true
+            },
+            {
+              "name": "Tanzania",
+              "iso2": "TZ",
+              "iso3": "TZA",
+              "isDefault": true
+            }
+          ],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 10.113768,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 2358,
+      "securityLevel": "public",
+      "type": "feature",
+      "updatedAt": "2019-06-27T04:21:25.757Z",
+      "name": "LION KING A MUSICAL JOURNEY, THE",
+      "estimatedRuntimeSecs": 1703,
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Lion King A Musical Journey, The",
+          "title": "The Lion King: A Musical Journey"
+        },
+        "radar": {
+          "groupNumber": "4291",
+          "productClass": "SPECIAL",
+          "productId": "2358",
+          "productNumber": "4291",
+          "productSubclass": "LA/ANIMATED",
+          "productTitle": "LION KING A MUSICAL JOURNEY, THE"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": [],
+        "copyright": {
+          "year": "1994"
+        }
+      },
+      "releaseDate": "1994-06-15T00:00:00-07:00",
+      "releases": [
+        {
+          "date": "1994-06-15T00:00:00-07:00"
+        }
+      ],
+      "class": "special",
+      "creativeFormat": "live_action_and_animated",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "5342",
+      "mpmProductIds": [
+        "000000750000008071"
+      ],
+      "mpmFamilyIds": [
+        "000000740000008263"
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.936779,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 90951,
+      "securityLevel": "public",
+      "type": "feature",
+      "updatedAt": "2019-06-27T06:14:16.036Z",
+      "name": "GROUP LION KING (2 PACK DVD JAPAN)",
+      "estimatedRuntimeSecs": 7200,
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Group Lion King (2 Pack Dvd Japan)",
+          "title": "Group Lion King (2 Pack DVD Japan)"
+        },
+        "radar": {
+          "groupNumber": "32395",
+          "productClass": "HOME VIDEO",
+          "productId": "90951",
+          "productNumber": "32395",
+          "productSubclass": "ANIMATED",
+          "productTitle": "GROUP LION KING (2 PACK DVD JAPAN)"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": []
+      },
+      "releaseDate": "1994-06-24T00:00:00-07:00",
+      "releases": [
+        {
+          "date": "1994-06-24T00:00:00-07:00"
+        }
+      ],
+      "creativeFormat": "animated",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "imageUrl": null
+    },
+    {
+      "_score": 9.765878,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 88105,
+      "securityLevel": "public",
+      "type": "feature",
+      "updatedAt": "2019-06-27T05:36:23.676Z",
+      "name": "LION KING SPECIAL EDITION DVD, THE",
+      "estimatedRuntimeSecs": 1800,
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Lion King Special Edition Dvd, The",
+          "title": "Lion King Special Edition Dvd, The"
+        },
+        "radar": {
+          "groupNumber": "7951",
+          "productClass": "SPECIAL",
+          "productId": "88105",
+          "productNumber": "7951",
+          "productSubclass": "LA/ANIMATED",
+          "productTitle": "LION KING SPECIAL EDITION DVD, THE"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": []
+      },
+      "releaseDate": "2003-10-01T00:00:00-07:00",
+      "releases": [
+        {
+          "date": "2003-10-01T00:00:00-07:00"
+        }
+      ],
+      "class": "special",
+      "creativeFormat": "live_action_and_animated",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "mpmProductIds": [
+        "000000750000000580"
+      ],
+      "mpmFamilyIds": [
+        "000000740000000532"
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 23964,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T06:53:13.755Z",
+      "name": "PRE-EMPTION LION KING'S TIMON & PUMBAA",
+      "seasonName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "0",
+      "seasonNumber": "1",
+      "fNumber": null,
+      "foreignEpisodeNumber": null,
+      "seFormat": "s01e0000",
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+            "productId": 85323,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 85324,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Pre-Emption Lion King's Timon & Pumbaa",
+          "title": "Pre-emption Lion King's Timon & Pumbaa"
+        },
+        "radar": {
+          "groupNumber": "74491",
+          "productClass": "SERIES",
+          "productId": "23964",
+          "productNumber": "74492",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": []
+      },
+      "releases": [],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "4332",
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 22258,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T06:53:12.224Z",
+      "name": "BRAZIL NUTS/ SOUTH SEA SICK/ LION SLEEPS TONIGHT",
+      "seasonName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "1",
+      "seasonNumber": "1",
+      "fNumber": null,
+      "foreignEpisodeNumber": null,
+      "seFormat": "s01e0001",
+      "estimatedRuntimeSecs": 1320,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+            "productId": 85323,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 85324,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Brazil Nuts/ South Sea Sick/ Lion Sleeps Tonight",
+          "title": "Brazil Nuts/ South Sea Sick/ Lion Sleeps Tonight"
+        },
+        "radar": {
+          "groupNumber": "74491",
+          "productClass": "SERIES",
+          "productId": "22258",
+          "productNumber": "74492",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)"
+        },
+        "sonar": {
+          "title": "Brazil Nuts/ South Sea Sick/ Lion Sleeps Tonight"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": [],
+        "copyright": {
+          "year": "1995"
+        }
+      },
+      "releaseDate": "1995-09-16T00:00:00-07:00",
+      "releases": [
+        {
+          "date": "1995-09-16T00:00:00-07:00"
+        }
+      ],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "seasonBroadcastYear": "1995/96",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "04/15/55",
+      "versions": [
+        {
+          "id": 26739,
+          "name": "Broadcast:OV",
+          "eidrL2": null,
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": null,
+          "editDetails": null,
+          "editTerritories": [],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": "10.5240/73FB-DABB-AC80-6A87-0F79-R",
+      "isActive": true,
+      "productId": 90350,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T05:52:46.929Z",
+      "name": "BOARA BOARA/ SASKATCHEWAN CATCH",
+      "seasonName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "1",
+      "seasonNumber": "1",
+      "fNumber": "F001",
+      "foreignEpisodeNumber": "F001",
+      "seFormat": "s01e0001",
+      "estimatedRuntimeSecs": 1800,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": "10.5240/A0DF-F3CE-1B23-AE65-9C52-6",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+            "productId": 21606,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": "10.5240/2A7A-EEAE-85F0-8BA1-E34E-U",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 21839,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Boara Boara/ Saskatchewan Catch",
+          "title": "Boara Boara / Saskatchewan Catch"
+        },
+        "radar": {
+          "groupNumber": "4672",
+          "productClass": "SERIES",
+          "productId": "90350",
+          "productNumber": "4720",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)"
+        },
+        "sonar": {
+          "title": "Boara Boara/ Saskatchewan Catch"
+        }
+      },
+      "cast": [
+        {
+          "firstName": "Jeff",
+          "lastName": "Bennett",
+          "characterName": "With the Voice Talents of",
+          "order": 1
+        },
+        {
+          "firstName": "Quinton",
+          "lastName": "Flynn",
+          "characterName": "With the Voice Talents of",
+          "order": 2
+        },
+        {
+          "firstName": "Nathan",
+          "lastName": "Lane",
+          "characterName": "With the Voice Talents of",
+          "order": 3
+        },
+        {
+          "firstName": "Rob",
+          "lastName": "Paulsen",
+          "characterName": "With the Voice Talents of",
+          "order": 4
+        },
+        {
+          "firstName": "Ernie",
+          "lastName": "Sabella",
+          "characterName": "With the Voice Talents of",
+          "order": 5
+        },
+        {
+          "firstName": "April",
+          "lastName": "Winchell",
+          "characterName": "With the Voice Talents of",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "firstName": "Tony",
+          "lastName": "Craig",
+          "roleName": "Produced By",
+          "order": 1
+        },
+        {
+          "firstName": "Tony",
+          "lastName": "Craig",
+          "roleName": "Directed By",
+          "order": 2
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Produced By",
+          "order": 3
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Directed By",
+          "order": 4
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Written By",
+          "order": 5
+        },
+        {
+          "firstName": "Todd",
+          "lastName": "Frederiksen",
+          "roleName": "Storyboard By",
+          "order": 6
+        },
+        {
+          "firstName": "Rob",
+          "lastName": "LaDuca",
+          "roleName": "Produced By",
+          "order": 7
+        },
+        {
+          "firstName": "Rob",
+          "lastName": "LaDuca",
+          "roleName": "Directed By",
+          "order": 8
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Story Editor",
+          "order": 9
+        },
+        {
+          "firstName": "Darrell",
+          "lastName": "Campbell",
+          "roleName": "Written By",
+          "order": 10
+        },
+        {
+          "firstName": "Phil",
+          "lastName": "Weinstein",
+          "roleName": "Storyboard By",
+          "order": 11
+        },
+        {
+          "firstName": "Michelle",
+          "lastName": "Pappalardo-Robinson",
+          "roleName": "Associate Producer",
+          "order": 12
+        }
+      ],
+      "keywords": [
+        "beach",
+        "kidnap",
+        "natives",
+        "worship",
+        "slave"
+      ],
+      "ratings": [],
+      "synopsisLong": "Timon and Pumbaa's relaxing day at the beach is overturned when Pumbaa is kidnapped by jungle natives! However, instead of eating him, they worship him, and Timon is forced to become Pumbaa's slave. Pumbaa's luck runs out when he fails to make fire and is found to be a fraud. When Timon and Pumbaa happen upon a love-struck, female flying squirrel, they make a deal to help her get a male squirrel to have dinner with her if, in return, she'll fly high into the Saskatchewan tree tops to fetch the rare beetle delicacy.",
+      "synopsisMedium": "Timon and Pumbaa's relaxing day at a deserted beach is overturned when Pumbaa is kidnapped by jungle natives!; Timon and Pumbaa happen upon a love-struck, female flying squirrel.",
+      "synopsisShort": "Timon and Pumbaa happen upon a love-struck squirrel.",
+      "alternateNames": {
+        "consumerFacing": [
+          {
+            "name": "L'Idole de Bora Bora / Les Amours d'écureuil",
+            "language": "fr-fr",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Boara Boara / Saskatchewan Catch",
+            "language": "en",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Boara Boara / Escarabajos en Saskatchewan",
+            "language": "es-lm",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Koning Zwijn / In de ban van Saskachewan",
+            "language": "nl",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          }
+        ]
+      },
+      "releases": [],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "seasonBroadcastYear": "1995/96",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "002/016",
+      "versions": [
+        {
+          "id": 51122,
+          "name": "General:OT:25FPS:en",
+          "eidrL2": "10.5240/E96A-CC08-6BC6-0197-F696-6",
+          "parentEidrL2": null,
+          "isDefault": false,
+          "description": "International Version",
+          "editDetails": "International Version",
+          "editTerritories": [
+            {
+              "name": "Netherlands",
+              "iso2": "NL",
+              "iso3": "NLD",
+              "isDefault": false
+            }
+          ],
+          "language": "English"
+        },
+        {
+          "id": 47709,
+          "name": "Broadcast:OV",
+          "eidrL2": "10.5240/8B17-2EB2-711A-D7A5-00E3-G",
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": "Broadcast:OV",
+          "editDetails": "Broadcast:OV",
+          "editTerritories": [],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 22535,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T06:53:13.539Z",
+      "name": "MANHATTAN MISHAP/ PARAGUAY PARABLE",
+      "seasonName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "10",
+      "seasonNumber": "1",
+      "fNumber": null,
+      "foreignEpisodeNumber": null,
+      "seFormat": "s01e0010",
+      "estimatedRuntimeSecs": 1320,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+            "productId": 85323,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 85324,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Manhattan Mishap/ Paraguay Parable",
+          "title": "Manhattan Mishap/ Paraguay Parable"
+        },
+        "radar": {
+          "groupNumber": "74491",
+          "productClass": "SERIES",
+          "productId": "22535",
+          "productNumber": "74492",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)"
+        },
+        "sonar": {
+          "title": "Manhattan Mishap/ Paraguay Parable"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": [],
+        "copyright": {
+          "year": "1995"
+        }
+      },
+      "releaseDate": "1995-11-25T00:00:00-08:00",
+      "releases": [
+        {
+          "date": "1995-11-25T00:00:00-08:00"
+        }
+      ],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "seasonBroadcastYear": "1995/96",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "043/019",
+      "versions": [
+        {
+          "id": 26758,
+          "name": "Broadcast:OV",
+          "eidrL2": null,
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": null,
+          "editDetails": null,
+          "editTerritories": [],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": "10.5240/D069-5F55-F6D0-3E2C-1A37-0",
+      "isActive": true,
+      "productId": 90359,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T05:52:47.849Z",
+      "name": "TIMON'S TIME TOGO/ LAW OF THE JUNGLE",
+      "seasonName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "10",
+      "seasonNumber": "1",
+      "fNumber": "F010",
+      "foreignEpisodeNumber": "F010",
+      "seFormat": "s01e0010",
+      "estimatedRuntimeSecs": 1800,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": "10.5240/A0DF-F3CE-1B23-AE65-9C52-6",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+            "productId": 21606,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": "10.5240/2A7A-EEAE-85F0-8BA1-E34E-U",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 21839,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Timon's Time Togo/ Law Of The Jungle",
+          "title": "Timon's Time Togo / Law of the Jungle"
+        },
+        "radar": {
+          "groupNumber": "4672",
+          "productClass": "SERIES",
+          "productId": "90359",
+          "productNumber": "4720",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)"
+        },
+        "sonar": {
+          "title": "Timon's Time Togo/ Law Of The Jungle"
+        }
+      },
+      "cast": [
+        {
+          "firstName": "Jeff",
+          "lastName": "Bennett",
+          "characterName": "With the Voice Talents of",
+          "order": 1
+        },
+        {
+          "firstName": "Townsend",
+          "lastName": "Coleman",
+          "characterName": "With the Voice Talents of",
+          "order": 2
+        },
+        {
+          "firstName": "Jim",
+          "lastName": "Cummings",
+          "characterName": "With the Voice Talents of",
+          "order": 3
+        },
+        {
+          "firstName": "Quinton",
+          "lastName": "Flynn",
+          "characterName": "With the Voice Talents of",
+          "order": 4
+        },
+        {
+          "firstName": "Brad",
+          "lastName": "Garrett",
+          "characterName": "With the Voice Talents of",
+          "order": 5
+        },
+        {
+          "firstName": "Ernie",
+          "lastName": "Sabella",
+          "characterName": "With the Voice Talents of",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "firstName": "Tony",
+          "lastName": "Craig",
+          "roleName": "Produced By",
+          "order": 1
+        },
+        {
+          "firstName": "Tony",
+          "lastName": "Craig",
+          "roleName": "Directed By",
+          "order": 2
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Produced By",
+          "order": 3
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Directed By",
+          "order": 4
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Story Editor",
+          "order": 5
+        },
+        {
+          "firstName": "Mirith",
+          "lastName": "Colao",
+          "roleName": "Written By",
+          "order": 6
+        },
+        {
+          "firstName": "Ken",
+          "lastName": "Boyer",
+          "roleName": "Storyboard By",
+          "order": 7
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Campbell",
+          "roleName": "Story Editor",
+          "order": 8
+        },
+        {
+          "firstName": "Steve",
+          "lastName": "Roberts",
+          "roleName": "Written By",
+          "order": 9
+        },
+        {
+          "firstName": "Wendell",
+          "lastName": "Washer",
+          "roleName": "Storyboard By",
+          "order": 10
+        },
+        {
+          "firstName": "Michelle",
+          "lastName": "Pappalardo-Robinson",
+          "roleName": "Associate Producer",
+          "order": 11
+        }
+      ],
+      "keywords": [
+        "poisonous",
+        "bug",
+        "Heaven",
+        "angel",
+        "death"
+      ],
+      "ratings": [],
+      "synopsisLong": "When Timon eats a poisonous bug, keels over, dies and floats up to Meerkat Heaven, the angel at the pearly gates won't let him in. He tells Timon that if he can do one good deed, his life's mission will be complete and then he'll be admitted. Timon sees this as a chance to cheat death - as long as he doesn't do anything nice, he won't die! When Timon has an unbearable back itch he can't reach, he uses the Forbidden Stick to solve the problem, and is soon hauled into Jungle Court before a grim judge who hates him.",
+      "synopsisMedium": "Timon dies and floats up to Meerkat Heaven, but the angel at the gate won't let him in! Timon scratches his back with the Forbidden Stick and gets into trouble.",
+      "synopsisShort": "Timon is not allowed into Meerkat Heaven.",
+      "alternateNames": {
+        "consumerFacing": [
+          {
+            "name": "Le Paradis perdu / La Loi de la jungle",
+            "language": "fr-fr",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Timon's Time Togo / Law of the Jungle",
+            "language": "en",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "La Hora de Morirse / La Ley de la Selva",
+            "language": "es-lm",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Timon legt het loodje / Het recht van de sterkste",
+            "language": "nl",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          }
+        ]
+      },
+      "releases": [],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "seasonBroadcastYear": "1995/96",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "035/040",
+      "versions": [
+        {
+          "id": 47718,
+          "name": "Broadcast:OV",
+          "eidrL2": "10.5240/299F-BDA4-7AD2-3AB2-31F4-W",
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": "Broadcast:OV",
+          "editDetails": "Broadcast:OV",
+          "editTerritories": [],
+          "language": "English"
+        },
+        {
+          "id": 56658,
+          "name": "General:OT:25FPS:en",
+          "eidrL2": "10.5240/32DA-8486-4E9F-2024-C738-I",
+          "parentEidrL2": null,
+          "isDefault": false,
+          "description": "International Version",
+          "editDetails": "International Version",
+          "editTerritories": [
+            {
+              "name": "Netherlands",
+              "iso2": "NL",
+              "iso3": "NLD",
+              "isDefault": false
+            }
+          ],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 22585,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T06:53:13.612Z",
+      "name": "LET'S SERENGETI OUT OF HERE/ CONGO ON LIKE THIS",
+      "seasonName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "11",
+      "seasonNumber": "1",
+      "fNumber": null,
+      "foreignEpisodeNumber": null,
+      "seFormat": "s01e0011",
+      "estimatedRuntimeSecs": 1320,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+            "productId": 85323,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 85324,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Let's Serengeti Out Of Here/ Congo On Like This",
+          "title": "Let's Serengeti Out Of Here/ Congo On Like This"
+        },
+        "radar": {
+          "groupNumber": "74491",
+          "productClass": "SERIES",
+          "productId": "22585",
+          "productNumber": "74492",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)"
+        },
+        "sonar": {
+          "title": "Let's Serengeti Out Of Here/ Congo On Like This"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": [],
+        "copyright": {
+          "year": "1995"
+        }
+      },
+      "releaseDate": "1995-12-09T00:00:00-08:00",
+      "releases": [
+        {
+          "date": "1995-12-09T00:00:00-08:00"
+        }
+      ],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "seasonBroadcastYear": "1995/96",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "036/051",
+      "versions": [
+        {
+          "id": 26760,
+          "name": "Broadcast:OV",
+          "eidrL2": null,
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": null,
+          "editDetails": null,
+          "editTerritories": [],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": "10.5240/5231-1ACE-0E66-0D02-F1B5-G",
+      "isActive": true,
+      "productId": 90360,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T05:52:47.925Z",
+      "name": "BE MORE PACIFIC/ GOING URUGUAY",
+      "seasonName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "11",
+      "seasonNumber": "1",
+      "fNumber": "F011",
+      "foreignEpisodeNumber": "F011",
+      "seFormat": "s01e0011",
+      "estimatedRuntimeSecs": 1800,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": "10.5240/A0DF-F3CE-1B23-AE65-9C52-6",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+            "productId": 21606,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": "10.5240/2A7A-EEAE-85F0-8BA1-E34E-U",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 21839,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Be More Pacific/ Going Uruguay",
+          "title": "Be More Pacific / Going Uruguay"
+        },
+        "radar": {
+          "groupNumber": "4672",
+          "productClass": "SERIES",
+          "productId": "90360",
+          "productNumber": "4720",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)"
+        },
+        "sonar": {
+          "title": "Be More Pacific/ Going Uruguay"
+        }
+      },
+      "cast": [
+        {
+          "firstName": "Jim",
+          "lastName": "Cummings",
+          "characterName": "With the Voice Talents of",
+          "order": 1
+        },
+        {
+          "firstName": "Debi",
+          "lastName": "Derryberry",
+          "characterName": "With the Voice Talents of",
+          "order": 2
+        },
+        {
+          "firstName": "Quinton",
+          "lastName": "Flynn",
+          "characterName": "With the Voice Talents of",
+          "order": 3
+        },
+        {
+          "firstName": "Ernie",
+          "lastName": "Sabella",
+          "characterName": "With the Voice Talents of",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "firstName": "Tony",
+          "lastName": "Craig",
+          "roleName": "Produced By",
+          "order": 1
+        },
+        {
+          "firstName": "Tony",
+          "lastName": "Craig",
+          "roleName": "Directed By",
+          "order": 2
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Produced By",
+          "order": 3
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Directed By",
+          "order": 4
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Written By",
+          "order": 5
+        },
+        {
+          "firstName": "Sharon",
+          "lastName": "Forward",
+          "roleName": "Storyboard By",
+          "order": 6
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Story Editor",
+          "order": 7
+        },
+        {
+          "firstName": "Mirith",
+          "lastName": "Colao",
+          "roleName": "Written By",
+          "order": 8
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Campbell",
+          "roleName": "Written By",
+          "order": 9
+        },
+        {
+          "firstName": "Heather",
+          "lastName": "Kenyon",
+          "roleName": "Story By",
+          "order": 10
+        },
+        {
+          "firstName": "Ken",
+          "lastName": "Harsha",
+          "roleName": "Storyboard By",
+          "order": 11
+        },
+        {
+          "firstName": "Michelle",
+          "lastName": "Pappalardo-Robinson",
+          "roleName": "Associate Producer",
+          "order": 12
+        }
+      ],
+      "keywords": [
+        "magical",
+        "beached",
+        "whale",
+        "wishes",
+        "termite"
+      ],
+      "ratings": [],
+      "synopsisLong": "Pumbaa rescues a magical beached whale. When the whale offers Pumbaa three wishes, Pumbaa declines. But when Timon gets word that three wishes are at their disposal, he makes his demands and gets more than he wished for. Pretending to befriend Woody Woodeater III, a lost termite king in search of his kingdom, Timon and Pumbaa risk life and limb to help him find his termite mound, so they can enjoy the termite feast of their lives.",
+      "synopsisMedium": "Pumbaa rescues a magical beached whale, who offers him three wishes. Timon and Pumbaa pretend to befriend a lost termite king in search of his kingdom.",
+      "synopsisShort": "Pumbaa rescues a magical beached whale.",
+      "alternateNames": {
+        "consumerFacing": [
+          {
+            "name": "Cétacé, soyez pacifique / La Termitière",
+            "language": "fr-fr",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Be More Pacific / Going Uruguay",
+            "language": "en",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Se Más Pacífico / Vamos a Uruguay",
+            "language": "es-lm",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Specifieke wensen / Slechte eters",
+            "language": "nl",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          }
+        ]
+      },
+      "releases": [],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "seasonBroadcastYear": "1995/96",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "046/042",
+      "versions": [
+        {
+          "id": 50961,
+          "name": "General:OT:25FPS:en",
+          "eidrL2": "10.5240/585C-D948-3222-CCBC-41CB-J",
+          "parentEidrL2": null,
+          "isDefault": false,
+          "description": "International Version",
+          "editDetails": "International Version",
+          "editTerritories": [
+            {
+              "name": "Netherlands",
+              "iso2": "NL",
+              "iso3": "NLD",
+              "isDefault": false
+            }
+          ],
+          "language": "English"
+        },
+        {
+          "id": 47719,
+          "name": "Broadcast:OV",
+          "eidrL2": "10.5240/2E6A-96EF-23A0-425E-13C9-L",
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": "Broadcast:OV",
+          "editDetails": "Broadcast:OV",
+          "editTerritories": [],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 22635,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T06:53:13.683Z",
+      "name": "OKAY BAYOU?/ SHAKE YOUR DJIBOUTI",
+      "seasonName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "12",
+      "seasonNumber": "1",
+      "fNumber": null,
+      "foreignEpisodeNumber": null,
+      "seFormat": "s01e0012",
+      "estimatedRuntimeSecs": 1320,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+            "productId": 85323,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 85324,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Okay Bayou?/ Shake Your Djibouti",
+          "title": "Okay Bayou?/ Shake Your Djibouti"
+        },
+        "radar": {
+          "groupNumber": "74491",
+          "productClass": "SERIES",
+          "productId": "22635",
+          "productNumber": "74492",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)"
+        },
+        "sonar": {
+          "title": "Okay Bayou?/ Shake Your Djibouti"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": [],
+        "copyright": {
+          "year": "1995"
+        }
+      },
+      "releaseDate": "1995-12-16T00:00:00-08:00",
+      "releases": [
+        {
+          "date": "1995-12-16T00:00:00-08:00"
+        }
+      ],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "seasonBroadcastYear": "1995/96",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "029/052",
+      "versions": [
+        {
+          "id": 26762,
+          "name": "Broadcast:OV",
+          "eidrL2": null,
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": null,
+          "editDetails": null,
+          "editTerritories": [],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": "10.5240/7EFD-187D-5163-9637-28CC-3",
+      "isActive": true,
+      "productId": 90361,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T05:52:47.998Z",
+      "name": "YOSEMITE REMEDY/ SKY IS CALLING, THE",
+      "seasonName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "12",
+      "seasonNumber": "1",
+      "fNumber": "F012",
+      "foreignEpisodeNumber": "F012",
+      "seFormat": "s01e0012",
+      "estimatedRuntimeSecs": 1800,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": "10.5240/A0DF-F3CE-1B23-AE65-9C52-6",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+            "productId": 21606,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": "10.5240/2A7A-EEAE-85F0-8BA1-E34E-U",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 21839,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Yosemite Remedy/ Sky Is Calling, The",
+          "title": "Yosemite Remedy / The Sky is Calling"
+        },
+        "radar": {
+          "groupNumber": "4672",
+          "productClass": "SERIES",
+          "productId": "90361",
+          "productNumber": "4720",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)"
+        },
+        "sonar": {
+          "title": "Yosemite Remedy/ The Sky Is Calling"
+        }
+      },
+      "cast": [
+        {
+          "firstName": "Townsend",
+          "lastName": "Coleman",
+          "characterName": "With the Voice Talents of",
+          "order": 1
+        },
+        {
+          "firstName": "Brian",
+          "lastName": "Cummings",
+          "characterName": "With the Voice Talents of",
+          "order": 2
+        },
+        {
+          "firstName": "Quinton",
+          "lastName": "Flynn",
+          "characterName": "With the Voice Talents of",
+          "order": 3
+        },
+        {
+          "firstName": "Robert",
+          "lastName": "Guillaume",
+          "characterName": "With the Voice Talents of",
+          "order": 4
+        },
+        {
+          "firstName": "Steve",
+          "lastName": "Mackall",
+          "characterName": "With the Voice Talents of",
+          "order": 5
+        },
+        {
+          "firstName": "Ernie",
+          "lastName": "Sabella",
+          "characterName": "With the Voice Talents of",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "firstName": "Rob",
+          "lastName": "LaDuca",
+          "roleName": "Produced By",
+          "order": 1
+        },
+        {
+          "firstName": "Rob",
+          "lastName": "LaDuca",
+          "roleName": "Directed By",
+          "order": 2
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Story Editor",
+          "order": 3
+        },
+        {
+          "firstName": "Mirith",
+          "lastName": "Colao",
+          "roleName": "Written By",
+          "order": 4
+        },
+        {
+          "firstName": "Jill",
+          "lastName": "Colbert",
+          "roleName": "Storyboard By",
+          "order": 5
+        },
+        {
+          "firstName": "Byron",
+          "lastName": "Simpson",
+          "roleName": "Written By",
+          "order": 6
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Campbell",
+          "roleName": "Written By",
+          "order": 7
+        },
+        {
+          "firstName": "Ryan",
+          "lastName": "Anthony",
+          "roleName": "Storyboard By",
+          "order": 8
+        },
+        {
+          "firstName": "Michelle",
+          "lastName": "Pappalardo-Robinson",
+          "roleName": "Associate Producer",
+          "order": 9
+        }
+      ],
+      "keywords": [
+        "raccoon",
+        "steals",
+        "suitcase",
+        "vultures",
+        "meteor"
+      ],
+      "ratings": [],
+      "synopsisLong": "When a raccoon steals Timon and Pumbaa's suitcase, Timon and Pumbaa turn to the police. But the cop vultures (from “The Law Of The Jungle\") aren't any help and so Timon takes matters into his own hands. Timon and Pumbaa are convinced nothing can ever come between their friendship. Yet, when a meteor lands right between them, it starts an argument that only Rafiki's wisdom can resolve.",
+      "synopsisMedium": "Timon and Pumbaa turn to the police when a raccoon steals their suitcase. A meteor lands right between Timon and Pumbaa, causing an argument that only Rafiki's wisdom can resolve.",
+      "synopsisShort": "A meteor lands right between Timon and Pumbaa.",
+      "alternateNames": {
+        "consumerFacing": [
+          {
+            "name": "Au nom de la justice / Aide-toi, le ciel t'aidera",
+            "language": "fr-fr",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Yosemite Remedy / The Sky is Calling",
+            "language": "en",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Remedio Yosemite / El Cielo se está Cayendo",
+            "language": "es-lm",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Timon en Pumbaa op het dievenpad / Steengoede vrienden",
+            "language": "nl",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          }
+        ]
+      },
+      "releases": [],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "seasonBroadcastYear": "1995/96",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "048/047",
+      "versions": [
+        {
+          "id": 47720,
+          "name": "Broadcast:OV",
+          "eidrL2": "10.5240/60E6-ADEC-E946-5476-8112-I",
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": "Broadcast:OV",
+          "editDetails": "Broadcast:OV",
+          "editTerritories": [],
+          "language": "English"
+        },
+        {
+          "id": 57218,
+          "name": "General:OT:25FPS:en",
+          "eidrL2": "10.5240/5B68-52B1-B7D6-A1ED-54E7-D",
+          "parentEidrL2": null,
+          "isDefault": false,
+          "description": "International Version",
+          "editDetails": "International Version",
+          "editTerritories": [
+            {
+              "name": "Netherlands",
+              "iso2": "NL",
+              "iso3": "NLD",
+              "isDefault": false
+            }
+          ],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": null,
+      "isActive": true,
+      "productId": 22262,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T06:53:12.514Z",
+      "name": "BOARA BOARA/ SASKATCHEWAN CATCH",
+      "seasonName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "13",
+      "seasonNumber": "1",
+      "fNumber": null,
+      "foreignEpisodeNumber": null,
+      "seFormat": "s01e0013",
+      "estimatedRuntimeSecs": 1320,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (OVERALL SERIES)",
+            "productId": 85323,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": null,
+            "name": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 85324,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Boara Boara/ Saskatchewan Catch",
+          "title": "Boara Boara/ Saskatchewan Catch"
+        },
+        "radar": {
+          "groupNumber": "74491",
+          "productClass": "SERIES",
+          "productId": "22262",
+          "productNumber": "74492",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (U.S. VERSION) (YR 1 1995/96 EPS 1-25)"
+        },
+        "sonar": {
+          "title": "Boara Boara/ Saskatchewan Catch"
+        }
+      },
+      "cast": [],
+      "crew": [],
+      "alternateNames": {
+        "consumerFacing": [],
+        "copyright": {
+          "year": "1995"
+        }
+      },
+      "releaseDate": "1995-09-08T00:00:00-07:00",
+      "releases": [
+        {
+          "date": "1995-09-08T00:00:00-07:00"
+        }
+      ],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "seasonBroadcastYear": "1995/96",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "002/016",
+      "versions": [
+        {
+          "id": 26743,
+          "name": "Broadcast:OV",
+          "eidrL2": null,
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": null,
+          "editDetails": null,
+          "editTerritories": [],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": "10.5240/10A9-324D-7969-D554-2F1D-X",
+      "isActive": true,
+      "productId": 90362,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T05:52:48.070Z",
+      "name": "MOZAM-BEAKED/ OCEAN COMMOTION",
+      "seasonName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "13",
+      "seasonNumber": "1",
+      "fNumber": "F013",
+      "foreignEpisodeNumber": "F013",
+      "seFormat": "s01e0013",
+      "estimatedRuntimeSecs": 1800,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": "10.5240/A0DF-F3CE-1B23-AE65-9C52-6",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+            "productId": 21606,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": "10.5240/2A7A-EEAE-85F0-8BA1-E34E-U",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 21839,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Mozam-Beaked/ Ocean Commotion",
+          "title": "Mozam-Beaked / Ocean Commotion"
+        },
+        "radar": {
+          "groupNumber": "4672",
+          "productClass": "SERIES",
+          "productId": "90362",
+          "productNumber": "4720",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)"
+        },
+        "sonar": {
+          "title": "Mozam-Beaked/ Ocean Commotion"
+        }
+      },
+      "cast": [
+        {
+          "firstName": "Corey",
+          "lastName": "Burton",
+          "characterName": "With the Voice Talents of",
+          "order": 1
+        },
+        {
+          "firstName": "Quinton",
+          "lastName": "Flynn",
+          "characterName": "With the Voice Talents of",
+          "order": 2
+        },
+        {
+          "firstName": "Gilbert",
+          "lastName": "Gottfried",
+          "characterName": "With the Voice Talents of",
+          "order": 3
+        },
+        {
+          "firstName": "Tress",
+          "lastName": "MacNeille",
+          "characterName": "With the Voice Talents of",
+          "order": 4
+        },
+        {
+          "firstName": "Rob",
+          "lastName": "Paulsen",
+          "characterName": "With the Voice Talents of",
+          "order": 5
+        },
+        {
+          "firstName": "Ernie",
+          "lastName": "Sabella",
+          "characterName": "With the Voice Talents of",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "firstName": "Tony",
+          "lastName": "Craig",
+          "roleName": "Produced By",
+          "order": 1
+        },
+        {
+          "firstName": "Tony",
+          "lastName": "Craig",
+          "roleName": "Directed By",
+          "order": 2
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Produced By",
+          "order": 3
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Directed By",
+          "order": 4
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Written By",
+          "order": 5
+        },
+        {
+          "firstName": "Ken",
+          "lastName": "Boyer",
+          "roleName": "Storyboard By",
+          "order": 6
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Story Editor",
+          "order": 7
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Campbell",
+          "roleName": "Written By",
+          "order": 8
+        },
+        {
+          "firstName": "Cullen",
+          "lastName": "Blaine",
+          "roleName": "Storyboard By",
+          "order": 9
+        },
+        {
+          "firstName": "Michelle",
+          "lastName": "Pappalardo-Robinson",
+          "roleName": "Associate Producer",
+          "order": 10
+        }
+      ],
+      "keywords": [
+        "tree",
+        "rude",
+        "woodpecker",
+        "Speedy",
+        "snail"
+      ],
+      "ratings": [],
+      "synopsisLong": "While resting in their favourite napping tree, Timon and Pumbaa are disturbed by a rude woodpecker. They will stop at nothing to get rid of him. At sea, Timon and Pumbaa reunite with Speedy The Snail. But this time they don't have to save their swirly pal from being eaten- instead, they've got to save him from a sinister jeweller who wants to turn Speedy into an earring for his dominating wife.",
+      "synopsisMedium": "Timon and Pumbaa's rest is disturbed by a rude woodpecker. At sea, Timon and Pumbaa reunite with Speedy The Snail, whom they've got to save from a sinister jeweller.",
+      "synopsisShort": "Timon and Pumbaa are disturbed by a rude woodpecker.",
+      "alternateNames": {
+        "consumerFacing": [
+          {
+            "name": "Une prise de bec / Une traversée bien tranquille",
+            "language": "fr-fr",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Mozam-Beaked / Ocean Commotion",
+            "language": "en",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "El Pájaro Carpintero / Joyería de Fantasía",
+            "language": "es-lm",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Hou je snavel / Zeeslag om een zeeslak",
+            "language": "nl",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          }
+        ]
+      },
+      "releases": [],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "seasonBroadcastYear": "1995/96",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "049/050",
+      "versions": [
+        {
+          "id": 47721,
+          "name": "Broadcast:OV",
+          "eidrL2": "10.5240/FD59-5873-2C5E-FB88-4149-7",
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": "Broadcast:OV",
+          "editDetails": "Broadcast:OV",
+          "editTerritories": [],
+          "language": "English"
+        },
+        {
+          "id": 54029,
+          "name": "General:OT:25FPS:en",
+          "eidrL2": "10.5240/6702-86A4-6C8A-22F5-3542-L",
+          "parentEidrL2": null,
+          "isDefault": false,
+          "description": "International Version",
+          "editDetails": "International Version",
+          "editTerritories": [
+            {
+              "name": "Netherlands",
+              "iso2": "NL",
+              "iso3": "NLD",
+              "isDefault": false
+            }
+          ],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    },
+    {
+      "_score": 9.6503315,
+      "eidrL1": "10.5240/EF99-F18C-71B8-6FF0-B60A-S",
+      "isActive": true,
+      "productId": 90363,
+      "securityLevel": "public",
+      "type": "episode",
+      "updatedAt": "2019-06-27T05:52:46.858Z",
+      "name": "BRAZIL NUTS/ SOUTH SEA SICK/ LION SLEEPS TONIGHT, THE",
+      "seasonName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+      "seriesName": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+      "episodeNumber": "14",
+      "seasonNumber": "1",
+      "fNumber": "F014",
+      "foreignEpisodeNumber": "F014",
+      "seFormat": "s01e0014",
+      "estimatedRuntimeSecs": 1800,
+      "titleAssociations": {
+        "series": {
+          "grandparent": {
+            "eidrL1": "10.5240/A0DF-F3CE-1B23-AE65-9C52-6",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (OVERALL SERIES)",
+            "productId": 21606,
+            "securityLevel": "public"
+          },
+          "parent": {
+            "eidrL1": "10.5240/2A7A-EEAE-85F0-8BA1-E34E-U",
+            "name": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)",
+            "productId": 21839,
+            "securityLevel": "public"
+          }
+        }
+      },
+      "systemRepresentations": {
+        "bolt": {
+          "prettifiedLegalTitle": "Brazil Nuts/ South Sea Sick/ Lion Sleeps Tonight, The",
+          "title": "Brazil Nuts / South Sea Sick / The Lion Sleeps Tonight"
+        },
+        "radar": {
+          "groupNumber": "4672",
+          "productClass": "SERIES",
+          "productId": "90363",
+          "productNumber": "4720",
+          "productSubclass": "ANIMATED",
+          "productTitle": "LION KING'S TIMON & PUMBAA (INTL. VERSION) (YR 1 1995/96 EPS 1-25)"
+        },
+        "sonar": {
+          "title": "Brazil Nuts/ The South Sea Sick/ Lion Sleeps Tonight"
+        }
+      },
+      "cast": [
+        {
+          "firstName": "Quinton",
+          "lastName": "Flynn",
+          "characterName": "With the Voice Talents of",
+          "order": 1
+        },
+        {
+          "firstName": "Richard",
+          "lastName": "Karron",
+          "characterName": "With the Voice Talents of",
+          "order": 2
+        },
+        {
+          "firstName": "Nathan",
+          "lastName": "Lane",
+          "characterName": "With the Voice Talents of",
+          "order": 3
+        },
+        {
+          "firstName": "Rob",
+          "lastName": "Paulsen",
+          "characterName": "With the Voice Talents of",
+          "order": 4
+        },
+        {
+          "firstName": "Ernie",
+          "lastName": "Sabella",
+          "characterName": "With the Voice Talents of",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "firstName": "Jeff",
+          "lastName": "DeGrandis",
+          "roleName": "Produced By",
+          "order": 1
+        },
+        {
+          "firstName": "Jeff",
+          "lastName": "DeGrandis",
+          "roleName": "Directed By",
+          "order": 2
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Story Editor",
+          "order": 3
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Campbell",
+          "roleName": "Written By",
+          "order": 4
+        },
+        {
+          "firstName": "Denise",
+          "lastName": "Koyama",
+          "roleName": "Storyboard By",
+          "order": 5
+        },
+        {
+          "firstName": "Tony",
+          "lastName": "Craig",
+          "roleName": "Produced By",
+          "order": 6
+        },
+        {
+          "firstName": "Tony",
+          "lastName": "Craig",
+          "roleName": "Directed By",
+          "order": 7
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Produced By",
+          "order": 8
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Directed By",
+          "order": 9
+        },
+        {
+          "firstName": "Roberts",
+          "lastName": "Gannaway",
+          "roleName": "Story Editor",
+          "order": 10
+        },
+        {
+          "firstName": "Bobbi",
+          "lastName": "Weiss",
+          "roleName": "Written By",
+          "order": 11
+        },
+        {
+          "firstName": "David",
+          "lastName": "Weiss",
+          "roleName": "Written By",
+          "order": 12
+        },
+        {
+          "firstName": "Cynthia",
+          "lastName": "Petrovic",
+          "roleName": "Storyboard By",
+          "order": 13
+        },
+        {
+          "firstName": "Ashley",
+          "lastName": "Quinn",
+          "roleName": "Produced By",
+          "order": 14
+        },
+        {
+          "firstName": "Darrell",
+          "lastName": "Citters",
+          "roleName": "Directed By",
+          "order": 15
+        },
+        {
+          "firstName": "Michelle",
+          "lastName": "Pappalardo-Robinson",
+          "roleName": "Associate Producer",
+          "order": 16
+        }
+      ],
+      "keywords": [
+        "Brazil",
+        "rainforest",
+        "Bug Buffet",
+        "snakes"
+      ],
+      "ratings": [],
+      "synopsisLong": "While foraging for bugs in a Brazilian rainforest, Timon and Pumbaa come across a big \"Bug Buffet.\" It seems too good to be true, and of course, it is: the Bug Buffet is a clever trap set by Sleeky and Gulp, two carnivorous South American jungle snakes. When Pumbaa eats too many bugs and gets sick, it is up to Timon to take care of him. Timon's overzealous bedside manner makes Pumbaa proud (and a little annoyed). When Pumbaa gets better by himself, he doesn't have the heart to tell his bestest pal.",
+      "synopsisMedium": "Timon and Pumbaa come across a big \"Bug Buffet” in the rainforest. Unbeknownst to them, the buffet is a trap! When Pumbaa gets sick, it is up to Timon to take care of him.",
+      "synopsisShort": "An overzealous Timon looks after a sickly Pumbaa.",
+      "alternateNames": {
+        "consumerFacing": [
+          {
+            "name": "Bouffe à gogo / Une digestion difficile",
+            "language": "fr-fr",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Brazil Nuts / South Sea Sick / The Lion Sleeps Tonight",
+            "language": "en",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Dos Tontos en Brasil / Pumba Enfermo / El León Duermen esta Noche",
+            "language": "es-lm",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          },
+          {
+            "name": "Braziliaanse belevenissen / Zuidzee ziekte / In het bos slaapt de leeuwenkoning",
+            "language": "nl",
+            "territories": [
+              "*"
+            ],
+            "media": [
+              "*"
+            ],
+            "clients": [
+              "*"
+            ]
+          }
+        ]
+      },
+      "releaseDate": "1995-09-08T00:00:00-07:00",
+      "releases": [
+        {
+          "date": "1995-09-08T00:00:00-07:00"
+        }
+      ],
+      "class": "series",
+      "subclass": "episode",
+      "creativeFormat": "animated",
+      "seasonBroadcastYear": "1995/96",
+      "disneyPlus": {
+        "isSelected": false
+      },
+      "productionNumber": "004/015/05",
+      "versions": [
+        {
+          "id": 47722,
+          "name": "Broadcast:OV",
+          "eidrL2": "10.5240/9912-6852-EA9E-170F-0C55-M",
+          "parentEidrL2": null,
+          "isDefault": true,
+          "description": "Broadcast:OV",
+          "editDetails": "Broadcast:OV",
+          "editTerritories": [],
+          "language": "English"
+        },
+        {
+          "id": 51173,
+          "name": "General:OT:25FPS:en",
+          "eidrL2": "10.5240/35BA-AB3E-0F92-A9EB-C454-9",
+          "parentEidrL2": null,
+          "isDefault": false,
+          "description": "International Version",
+          "editDetails": "International Version",
+          "editTerritories": [
+            {
+              "name": "Netherlands",
+              "iso2": "NL",
+              "iso3": "NLD",
+              "isDefault": false
+            }
+          ],
+          "language": "English"
+        }
+      ],
+      "imageUrl": null
+    }
+  ]
+}
